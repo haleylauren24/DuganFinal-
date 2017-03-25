@@ -19,10 +19,10 @@ peak area, standard deviation, and coefficient of variation.
 
 DuganFinal.py is formatted for Jupyter notebook, while AveragePeakArea.py is formatted with 
 a sys argument to be run in command line. The arguments are as follows: 
->> AveragePeakArea.py
->> Dugan_MSdata.csv 
->> KO
->> WT 
+AveragePeakArea.py
+Dugan_MSdata.csv 
+KO
+WT 
 
 
 
