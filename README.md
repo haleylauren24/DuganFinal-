@@ -1,5 +1,5 @@
 # DuganFinal-
-Dugan computing final 
+
 This code analyzes mass spectrometry data generated using Skyline,
 a program that extracts and organizes raw data taken directly from
 #the mass spectrometer. The csv file provided contains mass spec data
