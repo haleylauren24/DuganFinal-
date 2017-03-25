@@ -2,7 +2,7 @@
 
 This code analyzes mass spectrometry data generated using Skyline,
 a program that extracts and organizes raw data taken directly from
-#the mass spectrometer. The csv file provided contains mass spec data
+the mass spectrometer. The csv file provided contains mass spec data
 for proteins isolated from the liver of a Sirt5 knock-out mouse.
 Sirt5 is an enzyme that acts as a deacetylase, desuccinylase, and demalonylase
 to make post-translational modifications on lysine residues of proteins.
