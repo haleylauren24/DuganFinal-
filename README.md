@@ -10,9 +10,11 @@ Sirt5 has been shown to be important for mitochondrial metabolism
 and is relevant for understanding metabolic diseases.
 The csv file contains the fragmentation data for WT and Sirt5 KO proteins
 and shows the differences in post-translational modifications in the
-modifed sequence column. In this code, an interface will prompt the user to enter 
-the number of custom experimental conditions* (2), WT and KO, 
-and the code creates a tabular statistical report that includes the average
+modifed sequence column. 
+
+Upon invoking this code, an interface will prompt the user to enter 
+the number of custom experimental conditions (2), WT and KO, 
+and a tabular statistical report will be created that includes the average
 peak area, standard deviation, and coefficient of variation.
 
 *The two experimental conditions will always be KO and WT  
